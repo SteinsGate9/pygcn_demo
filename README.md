@@ -1,2 +1,2 @@
-# pygcn_demo
-no
+# gcn
+yeah
